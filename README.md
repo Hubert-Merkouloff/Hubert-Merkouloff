@@ -3,8 +3,6 @@
 
 - 👀 I’m interested in front-end development and UX design. 
 - 💞️ I’m looking to collaborate on open source projects and web applications with a social impact. 
-
-- 
 - 📫 Feel free to reach me on my linkedin account : Hubert Merkouloff.
 
 <!---
